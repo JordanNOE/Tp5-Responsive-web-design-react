@@ -1,0 +1,13 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/jorda/Desktop/technoweb/Tp5-Responsive-web-design-react/tp5-react/node_modules/@babel/core/lib/transformation/util/missing-plugin-helper.js",
+        "C:/Users/jorda/Desktop/technoweb/Tp5-Responsive-web-design-react/tp5-react/node_modules/@babel/parser/bin/babel-parser.js",
+        "C:/Users/jorda/Desktop/technoweb/Tp5-Responsive-web-design-react/tp5-react/node_modules/@babel/helper-replace-supers/lib/index.js",
+        "C:/Users/jorda/Desktop/technoweb/Tp5-Responsive-web-design-react/tp5-react/src/container/SideMenu.js",
+        "C:/Users/jorda/Desktop/technoweb/Tp5-Responsive-web-design-react/tp5-react/node_modules/@babel/plugin-proposal-class-properties/lib/index.js",
+        "C:/Users/jorda/Desktop/technoweb/Tp5-Responsive-web-design-react/tp5-react/node_modules/@babel/plugin-proposal-decorators/lib/index.js",
+        "C:/Users/jorda/Desktop/technoweb/Tp5-Responsive-web-design-react/tp5-react/node_modules/@babel/helper-split-export-declaration/lib/index.js",
+        "C:/Users/jorda/Desktop/technoweb/Tp5-Responsive-web-design-react/tp5-react/src/App.js",
+        "C:/Users/jorda/Desktop/technoweb/Tp5-Responsive-web-design-react/tp5-react/src/component/Album.js"
+    ]
+}

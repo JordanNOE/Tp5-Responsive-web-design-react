@@ -1,3 +1,14 @@
+@media (max-width: 540px){
+    .share{
+        display:none;
+    }
+    .search{
+        display:none;
+    }
+}
+
+
+
 .App {
   text-align: center;
 }
@@ -30,3 +41,4 @@
     transform: rotate(360deg);
   }
 }
+
